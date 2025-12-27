@@ -1,7 +1,4 @@
-##  Bonjour 👋 je suis Allal Yahia
-
-
-
+## Bonjour 👋 je suis Allal Yahia
 
 Ingénieur logiciel Full Stack spécialisé en Java Spring Boot et Next.js.
 
@@ -23,3 +20,5 @@ Système multi-tenant destiné à la gestion d’organisations avec plusieurs ag
 incluant l’authentification sécurisée, la gestion des rôles et des APIs REST.
 
 📎 Un aperçu visuel est disponible sur mon profil LinkedIn.
+
+🔒 **Note :** Ce projet est actuellement en développement actif et le code source est volontairement privé.
